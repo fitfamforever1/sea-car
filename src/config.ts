@@ -13,16 +13,16 @@ export const BASE = "/blog-template";
 // MORE SETTINGS:
 
 // will be used for the the title and meta tags and in the header (if SITE_NAME is left blank)
-export const SITE_TITLE = "flo-bit's blog template";
+export const SITE_TITLE = "Sea Car's Blog";
 
 // will be used in the meta tags (and for example shown in search results)
-export const SITE_DESCRIPTION = "Welcome to my blog template! Fork it and make it your own.";
+export const SITE_DESCRIPTION = "A personal blog by Sea Car covering religion, politics, science, technology, education, and more.";
 
 // will be used as the icon in the header and the favicon
-export const SITE_FAVICON = "🙃";
+export const SITE_FAVICON = "🌊";
 
 // will be used in the footer as the name of the author (c) <YEAR> <NAME> - LICENSE
-export const NAME = "flo-bit";
+export const NAME = "Sea-Car";
 
 // will be used in the footer as the license of the content (e.g. "All right reserved" or "CC-BY-SA 4.0")
 export const LICENSE = "MIT licensed.";
@@ -51,10 +51,10 @@ export const SOCIAL_LINKS: {
   BLUESKY_URL?: string;
   SHOW_RSS?: boolean;
 } = {
-  SHOW_RSS: true,
-  BLUESKY_URL: "https://bsky.app/profile/flo-bit.dev",
-  GITHUB_URL: "https://github.com/flo-bit",
-  EMAIL: "flo.bit.dev@gmail.com",
+  SHOW_RSS: false,
+  BLUESKY_URL: "",
+  GITHUB_URL: "",
+  EMAIL: "",
 };
 
 
