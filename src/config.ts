@@ -8,7 +8,7 @@ export const SITE = "https://flo-bit.dev";
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
 // otherwise set to '/<your-repo-name>'
-export const BASE = "/blog-template";
+export const BASE = "/main";
 
 // MORE SETTINGS:
 
@@ -30,7 +30,7 @@ export const LICENSE = "MIT licensed.";
 // will be used to identify your bluesky account, so that likes and comments can be shown on your posts
 export const BLUESKY_IDENTIFIER = "flo-bit.dev";
 
-export const SOURCE_LINK = 'https://github.com/flo-bit/blog-template';
+export const SOURCE_LINK = '';
 
 // will be used to set the base color of the blog
 export const BASE_COLOR: BaseColor = "neutral";
