@@ -8,7 +8,7 @@ export const SITE = "https://sea-car.vercel.app";
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
 // otherwise set to '/<your-repo-name>'
-export const BASE = "/";
+export const BASE = "/main/";
 
 // MORE SETTINGS:
 
@@ -28,7 +28,7 @@ export const NAME = "Sea-Car";
 export const LICENSE = "MIT licensed.";
 
 // will be used to identify your bluesky account, so that likes and comments can be shown on your posts
-export const BLUESKY_IDENTIFIER = "flo-bit.dev";
+export const BLUESKY_IDENTIFIER = "";
 
 export const SOURCE_LINK = '';
 
