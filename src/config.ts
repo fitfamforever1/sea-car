@@ -8,7 +8,7 @@ export const SITE = "https://sea-car.vercel.app";
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
 // otherwise set to '/<your-repo-name>'
-export const BASE = "/main/";
+export const BASE = "/main";
 
 // MORE SETTINGS:
 
