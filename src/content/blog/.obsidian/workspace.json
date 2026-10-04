@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.mdx",
+                "file": "Religion1.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Religion1"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.mdx",
+                "file": "Religion1.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Religion1"
             }
           }
         ],
@@ -204,7 +204,7 @@
   "active": "f176c9c39c7c0284",
   "lastOpenFiles": [
     "test.md",
-    "1.mdx",
+    "Religion1.mdx",
     "Untitled.mdx.md",
     "new.py",
     "Welcome.md"
